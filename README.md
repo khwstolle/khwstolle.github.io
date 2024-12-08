@@ -1,2 +1,1 @@
-# khwstolle.github.io
-Profile on GitHub Pages
+[GitHub profile](https://github.com/khwstolle)
